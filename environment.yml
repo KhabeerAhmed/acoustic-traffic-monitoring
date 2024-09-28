@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - pandas
+  - matplotlib
+  - tqdm
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - numpy=1
+  - scipy
